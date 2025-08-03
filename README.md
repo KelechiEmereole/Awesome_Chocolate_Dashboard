@@ -1,5 +1,10 @@
 # Empowering Sales Decisions at Awesome Chocolate: A Power BI Dashboard Project
 
+## Dashboard Snapshots
+
+Here’s a preview of the Power BI dashboard used in this project:
+![Dashboard](https://github.com/KelechiEmereole/Awesome_Chocolate_Dashboard/blob/main/Awesome%20dashboard%20screenshot.PNG?raw=true)
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
